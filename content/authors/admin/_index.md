@@ -15,7 +15,7 @@ role: MDS Student
 # Organizations/Affiliations
 organizations:
 - name: University of British Columbia
-  url: ""
+  url: "https://avatars1.githubusercontent.com/u/54461529?s=40&v=4"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data science, data analytics and machine learning.
