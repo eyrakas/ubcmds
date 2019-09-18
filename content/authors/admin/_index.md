@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sakariya Aynashe is an MDS Student at University of British Columbia. He is interesed in machine learning, deep learning, neural networks and use of advanced statistics to perform simulations. His areas of interest include, data visualization, artificial intelligence, data mining and use of computing platforms that enable high speed data analytics performance.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
